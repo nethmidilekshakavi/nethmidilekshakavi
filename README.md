@@ -10,7 +10,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/nethmidilekshakavi"><img src="https://github-profile-trophy.vercel.app/?username=jayawickrma" alt="nethmidilekshakavi" /></a> </p>
+<p align="left"> <a href="https://github.com/nethmidilekshakavi"><img src="https://github-profile-trophy.vercel.app/?username=nethmidilekshakavi" alt="nethmidilekshakavi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
