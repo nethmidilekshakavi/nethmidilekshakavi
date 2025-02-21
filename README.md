@@ -1,12 +1,12 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nethmi%20Dileksha&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Passionate%20Developer%20Building%20Digital%20Solutions&descAlignY=51&descAlign=62)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=I'm%20Nethmi%20Dileksha%20|%20Software%20Developer&descAlignY=51&descAlign=62)
 
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Developer;Web+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!+💫;Backend+Developer+👩‍💻;Web+Developer+✨;Always+learning+new+things+🚀" alt="Typing SVG" /></a>
 </p>
 
 <!-- Activity Graph -->
@@ -18,13 +18,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nethmidilekshakavi&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" width="100%">
 </p>
 
-### 🌟 About Me
-- 🔭 I'm currently working on developing innovative web solutions
+### ✨ About Me
+- 🎯 I'm currently working on developing innovative web solutions
 - 🌱 Learning new technologies and frameworks
-- 👯 Looking to collaborate on exciting projects
+- 💫 Looking to collaborate on exciting projects
 - 💬 Ask me about Backend Development and Web Technologies
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmidilekshakavi&theme=dracula&layout=compact"/>
 </p>
 
-### 🤝 Connect with me
+### 💫 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/nethmi-dileksha-85b268319/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/nethmi.kavindi.14289"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
